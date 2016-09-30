@@ -117,7 +117,6 @@ button:hover {
 .cases .devices {
 	display: block;
 	/*styles to assist with debugging */
-	border: 1px solid black;
 	box-sizing: border-box;
 	height: 4em;
 	text-align: center;
